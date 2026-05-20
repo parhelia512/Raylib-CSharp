@@ -20,11 +20,9 @@ Discover the powerful features of our **✨new✨ Render Framework, [Bliss](http
 </p>
 
 Bliss is a **modern rendering solution** supporting:
-- 🎮 **Direct3D11**
+- 🎮 **Direct3D12**
 - 🌋 **Vulkan**
-- 🖼️ **OpenGL**
 - 🍎 **Metal**
-- 📱 **OpenGL-ES**
 
 Unlock advanced rendering capabilities with [Bliss](https://github.com/MrScautHD/Bliss) today!
 
